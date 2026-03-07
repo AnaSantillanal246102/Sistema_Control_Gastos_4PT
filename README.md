@@ -20,6 +20,3 @@ https://drive.google.com/drive/folders/1U46OD7VNi7XypWQnp3uUlxaiEonKIowm?usp=sha
 
 Github:
 https://github.com/AnaSantillanal246102/Sistema_Control_Gastos_4PT
-
-Jira (lectura):
-https://fudamentos-sisgest-gastos.atlassian.net/?continue=https%3A%2F%2Ffudamentos-sisgest-gastos.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiZTUwODdlNjFjZmFlNDExYzgxMTNmNGFiMzNjMGUxOTkiLCJwIjoiaiJ9
